@@ -1,5 +1,4 @@
-# CSCE643
-Fall 2021 Term Project 
+# CSCE643 Fall 2021 Term Project 
 
 To download and setup the Udacity Self Driving Car Simulator, please follow the instructions in the repo:
 https://github.com/udacity/self-driving-car-sim
